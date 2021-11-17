@@ -1,0 +1,13 @@
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\bin\Debug\New Design Login Form.exe.config
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\bin\Debug\New Design Login Form.exe
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\bin\Debug\New Design Login Form.pdb
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\bin\Debug\Guna.UI2.dll
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\bin\Debug\Radius.dll
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\obj\Debug\New Design Login Form.csprojAssemblyReference.cache
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\obj\Debug\New_Design_Login_Form.Form1.resources
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\obj\Debug\New_Design_Login_Form.Properties.Resources.resources
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\obj\Debug\New Design Login Form.csproj.GenerateResource.cache
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\obj\Debug\New Design Login Form.csproj.CoreCompileInputs.cache
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\obj\Debug\New Design Login Form.csproj.CopyComplete
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\obj\Debug\New Design Login Form.exe
+C:\Users\janap\source\repos\New Design Login Form\New Design Login Form\obj\Debug\New Design Login Form.pdb
